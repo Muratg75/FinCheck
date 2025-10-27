@@ -1,0 +1,111 @@
+{
+  "title": "Fiyat Endeksi (Tüketici Fiyatları) (2003=100)",
+  "description": "TÜFE (Tüketici Fiyat Endeksi) verileri",
+  "data": [
+    {
+      "date": "09-2025",
+      "yearlyChange": 33.29,
+      "monthlyChange": 3.23
+    },
+    {
+      "date": "08-2025",
+      "yearlyChange": 32.95,
+      "monthlyChange": 2.04
+    },
+    {
+      "date": "07-2025",
+      "yearlyChange": 33.52,
+      "monthlyChange": 2.06
+    },
+    {
+      "date": "06-2025",
+      "yearlyChange": 35.05,
+      "monthlyChange": 1.37
+    },
+    {
+      "date": "05-2025",
+      "yearlyChange": 35.41,
+      "monthlyChange": 1.53
+    },
+    {
+      "date": "04-2025",
+      "yearlyChange": 37.86,
+      "monthlyChange": 3.0
+    },
+    {
+      "date": "03-2025",
+      "yearlyChange": 38.10,
+      "monthlyChange": 2.46
+    },
+    {
+      "date": "02-2025",
+      "yearlyChange": 39.05,
+      "monthlyChange": 2.27
+    },
+    {
+      "date": "01-2025",
+      "yearlyChange": 42.12,
+      "monthlyChange": 5.03
+    },
+    {
+      "date": "12-2024",
+      "yearlyChange": 44.38,
+      "monthlyChange": 1.03
+    },
+    {
+      "date": "11-2024",
+      "yearlyChange": 47.09,
+      "monthlyChange": 2.24
+    },
+    {
+      "date": "10-2024",
+      "yearlyChange": 48.58,
+      "monthlyChange": 2.88
+    },
+    {
+      "date": "09-2024",
+      "yearlyChange": 49.38,
+      "monthlyChange": 2.97
+    },
+    {
+      "date": "08-2024",
+      "yearlyChange": 51.97,
+      "monthlyChange": 2.47
+    },
+    {
+      "date": "07-2024",
+      "yearlyChange": 61.78,
+      "monthlyChange": 3.23
+    },
+    {
+      "date": "06-2024",
+      "yearlyChange": 71.60,
+      "monthlyChange": 1.64
+    },
+    {
+      "date": "05-2024",
+      "yearlyChange": 75.45,
+      "monthlyChange": 3.37
+    },
+    {
+      "date": "04-2024",
+      "yearlyChange": 69.80,
+      "monthlyChange": 3.18
+    },
+    {
+      "date": "03-2024",
+      "yearlyChange": 68.50,
+      "monthlyChange": 3.16
+    },
+    {
+      "date": "02-2024",
+      "yearlyChange": 67.07,
+      "monthlyChange": 4.53
+    },
+    {
+      "date": "01-2024",
+      "yearlyChange": 64.86,
+      "monthlyChange": 6.70
+    }
+  ]
+}
